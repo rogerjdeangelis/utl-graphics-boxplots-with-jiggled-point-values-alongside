@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_boxplot_beeswarm",
+  "source_file": "utl-graphics-boxplots-with-jiggled-point-values-alongside.sas",
+  "source_blob_sha": "c8b03d6cb93c006d83edb148979bf107450bcbe2",
+  "source_commit": "95453cd1041b29b0caa771a8c0cce142cbb44bec",
+  "notes": "Author INPUT DATA step (do-loop list input from cards4, cats-derived variable2, nested output) kept verbatim; libname sd1 \"d:/sd1\" retargeted to WORK. PROC BOXPLOT renders the native-SAS boxplot analog of the R ggbeeswarm/geom_boxplot solution; medians 4 (control) / 8 (treat) match the author example output."
+}

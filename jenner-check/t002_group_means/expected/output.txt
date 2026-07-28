@@ -1,0 +1,26 @@
+                                              SD1.HAVE (first 8 of 30 obs)
+
+  Obs  VARIABLE2  VARIABLE  VALUE
+    1  control2   control       4
+    2  control2   control       6
+    3  control2   control       3
+    4  control2   control       4
+    5  control2   control       7
+    6  control2   control       8
+    7  control2   control       2
+    8  control2   control       3
+
+... 22 more observations (showing 8 of 30)
+
+                                          Boxplot summary statistics by group
+
+                                                  The MEANS Procedure
+
+                                               Analysis Variable : VALUE
+
+        VARIABLE          N Obs           Mean         Median        Minimum        Maximum
+        -----------------------------------------------------------------------------------
+        control              15           4.87           4.00           1.00           9.00
+        treat                15           7.47           8.00           5.00           9.00
+        -----------------------------------------------------------------------------------
+
